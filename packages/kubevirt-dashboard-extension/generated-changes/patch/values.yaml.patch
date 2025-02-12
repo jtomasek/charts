@@ -1,0 +1,11 @@
+--- charts-original/values.yaml
++++ charts/values.yaml
+@@ -2,7 +2,7 @@
+ fullnameOverride: ""
+ plugin:
+   enabled: true
+-  versionOverride: ""
++  versionOverride: "302.0.0+up1.2.1"
+   noCache: false
+   noAuth: false
+   metadata:
